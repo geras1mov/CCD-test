@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "model": 1423269021,
+    "position": {
+      "x": -2039.4000244140625,
+      "y": -458.6583251953125,
+      "z": 10
+    },
+    "heading": 140,
+    "forSale": {
+      "price": 1,
+      "owner": 0
+    },
+    "parkingSpotId": 1
+  },
+  {
+    "id": 1,
+    "model": 970598228,
+    "position": {
+      "x": -2059.5302734375,
+      "y": -457.9803161621094,
+      "z": 10
+    },
+    "heading": -40,
+    "forSale": {
+      "price": 2,
+      "owner": 0
+    },
+    "parkingSpotId": 9
+  }
+]

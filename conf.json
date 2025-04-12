@@ -1,0 +1,19 @@
+{
+	"maxplayers": 5,
+	"name": "TypeScript Test",
+	"gamemode": "freeroam",
+	"stream-distance": 500.0,
+	"announce": false,
+	"csharp": "disabled",
+	"bind": "127.0.0.1",
+	"port": 22005,
+	"encryption": false,
+	"url": "https://rage.mp",
+	"language": "en",
+	"allow-cef-debugging": true,
+	"enable-http-security": false,
+	"voice-chat": true,
+	"voice-chat-sample-rate": 24000,
+	"resources-compression-level": 0,
+    "client-packages": ["client_packages"]
+}
